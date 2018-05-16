@@ -3,4 +3,4 @@ hello java
 hello scala
 hello html
 hello git
-hello svn
+hello svn2
